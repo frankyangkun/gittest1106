@@ -1,1 +1,2 @@
 Some test on Mac.
+add notes from github.
